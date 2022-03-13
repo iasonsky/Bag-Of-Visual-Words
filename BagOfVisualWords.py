@@ -1,9 +1,5 @@
 """
-Author: Iason Skylitsis
-CV Lab Group 1
-Email: cs151097@uniwa.gr
-AM: 151097
-
+Author: iasonsky
 """
 import cv2
 import os
